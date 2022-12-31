@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #2b323b;
+  color: cornflowerblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container h1 {
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.auto-type {
+  color: #fff724;
+}
